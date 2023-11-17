@@ -8,3 +8,5 @@ Setup code is adopted to run on local machine
 ## Tip
 One tip for those doing the same project, remember to restart cuda kernel when encountering cuda error
 otherwise even if the code is corrected, the error won't go away
+
+### thanks everyone who put their code online
