@@ -1,4 +1,4 @@
-# EECS 598 Self-Study Project
+# EECS 598 HW
 
 ## Overview
 
